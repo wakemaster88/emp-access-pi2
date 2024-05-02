@@ -11,6 +11,5 @@ $json = json_decode($json, true);
 		}else
 		{
 			$access = 0;
-		}
-		
+		}	
 ?>
